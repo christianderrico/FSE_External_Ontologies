@@ -1,1 +1,0 @@
-# LOINC_ontology
